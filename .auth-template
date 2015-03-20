@@ -1,0 +1,8 @@
+var auth = {
+	basicAuth: {
+		'password': 'PASSWORD',
+		'username': 'USERNAME'
+	}
+};
+
+module.exports = auth;
